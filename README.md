@@ -1,4 +1,4 @@
-# Big-Mart-Sales-Prediction-Using-Machine-Learning
+# Big Mart Sales Prediction Using Machine Learning
 The Big Mart Sales Prediction project With Code, Docuemnts and Video Tutorial
 
 ![Big Mart](https://github.com/user-attachments/assets/a4bbae08-da76-4a5c-bf0a-0e3671861d61)
